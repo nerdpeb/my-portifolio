@@ -4,3 +4,12 @@
     width: 200px;
     /* padding: 5px; */
 }
+h1 {
+    color: blue;
+    text-align: left;
+}
+    h2 {
+        color: green;
+        font-style: italic;
+        text-align: left;
+    }
