@@ -25,3 +25,10 @@ h1 {
     text-align: center;
 }
     
+
+.rightmenu{
+    float: right;
+    padding: 5px;
+    height: 30px;
+   
+}
